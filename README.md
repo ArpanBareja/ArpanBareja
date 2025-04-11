@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Arpan 👋
 
-<!--
-**ArpanBareja/ArpanBareja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I’m a Computer Science student at **Delhi Technological University**  
+💻 Tech enthusiast passionate about **problem solving**, **web development**, and **AI**  
+⚡ Skilled in **C++**, **Data Structures & Algorithms**, and modern web technologies
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- 💻 Languages: C++, JavaScript, HTML, CSS  
+- 🌐 Web: Node.js, Express.js, Socket.io  
+- 🤖 AI & ML: Deep Learning (PyTorch/TensorFlow, etc.)  
+- 🛠️ Tools: Git, GitHub, VS Code
+
+---
+
+## 📌 Featured Projects
+
+### 🎮 Real-time Tic Tac Toe
+A multiplayer Tic Tac Toe game built using **Socket.io** and **Node.js** for real-time communication.  
+> 🔗 [GitHub Repo](https://github.com/ArpanBareja/RealTime-TicTacToe) | [Live Link](https://tictactoe-k069.onrender.com/)
+
+---
+
+### 🧩 Codeforces Ratings Extension
+A Chrome Extension to display Codeforces user ratings directly on profiles and contest pages.  
+> 🔗 [GitHub Repo](https://github.com/ArpanBareja/Codeforces-Ratings) | [Live Link](https://chromewebstore.google.com/detail/ncabpddnbkajknjbmmlbgppocbbechoi)
+
+---
+
+
+
+## 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/arpan-bareja/)
+- 📧 arpanbareja@gmail.com
+
+---
+
