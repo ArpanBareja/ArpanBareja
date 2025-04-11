@@ -24,7 +24,7 @@ A multiplayer Tic Tac Toe game built using **Socket.io** and **Node.js** for rea
 ---
 
 ### 🧩 Codeforces Ratings Extension
-A Chrome Extension to display Codeforces user ratings directly on profiles and contest pages.  
+A Chrome Extension to used to display all your friends rating in a single window. 
 > 🔗 [GitHub Repo](https://github.com/ArpanBareja/Codeforces-Ratings) | [Live Link](https://chromewebstore.google.com/detail/ncabpddnbkajknjbmmlbgppocbbechoi)
 
 ---
