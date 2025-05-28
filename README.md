@@ -10,8 +10,8 @@
 
 - 💻 Languages: C++, JavaScript, HTML, CSS  
 - 🌐 Web: Node.js, Express.js, Socket.io  
-- 🤖 AI & ML: Deep Learning (PyTorch/TensorFlow, etc.)  
-- 🛠️ Tools: Git, GitHub, VS Code
+- 🤖 AI & ML: Deep Learning (PyTorch/TensorFlow, etc.) (Exploring) 
+- 🛠️ Tools: GitHub, VS Code
 
 ---
 
