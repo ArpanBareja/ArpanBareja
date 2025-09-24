@@ -12,6 +12,7 @@
 - **Web Development:** Experienced in building full-stack applications using **Node.js**, **Express.js**, and **Socket.io**  
 - **Data Engineering:** Exploring distributed data processing with **Databricks**  
 - **Developer Tools & Platforms:** Comfortable with **Git/GitHub**, **Visual Studio Code**, and modern development workflows
+- **Performance & Systems**: Skilled in Low-Latency Development, Multithreading, and Optimized C++ Programming
 
 
 ---
